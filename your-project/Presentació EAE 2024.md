@@ -125,7 +125,7 @@ Al aplicar IA avanzada, como deep learning y análisis de audio, podemos mejorar
 ---
 
 <a name="conclusión-de-la-historia"></a>
-## Conclusión de la Historia
+## Conclusión
 
 Gracias a este proyecto, pude determinar si los festivales de música eran adecuados para mis gustos musicales. La IA no solo me ayudó a tomar una decisión informada, sino que también abrió nuevas posibilidades para personalizar y mejorar mi experiencia musical.
 
