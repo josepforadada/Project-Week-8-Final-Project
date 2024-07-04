@@ -1,7 +1,29 @@
+<img src="https://www.eaebarcelona.com/sites/eae.bcn/themes/custom/eae_mad/logo.webp" alt="EAE Logo" width="100"/>
+
 # Presentación EAE: GOING TO A MUSIC FESTIVAL
 
 ---
 
+## Contenido
+- [Introducción](#introducción)
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Hipótesis](#hipótesis)
+- [Conjunto de Datos](#conjunto-de-datos)
+- [Limpieza de Datos](#limpieza-de-datos)
+- [Entrenamiento y Evaluación del Modelo](#entrenamiento-y-evaluación-del-modelo)
+- [Conclusiones](#conclusiones)
+- [Trabajo Futuro](#trabajo-futuro)
+- [Flujo de Trabajo](#flujo-de-trabajo)
+- [Organización](#organización)
+- [Enlaces y Recursos](#enlaces-y-recursos)
+- [Historia: Cómo la IA Puede Mejorar el Análisis Musical](#historia-cómo-la-ia-puede-mejorar-el-análisis-musical)
+- [Futuro de las APIs y la IA en el Análisis Musical](#futuro-de-las-apis-y-la-ia-en-el-análisis-musical)
+- [Conclusión de la Historia](#conclusión-de-la-historia)
+- [Agradecimientos](#agradecimientos)
+
+---
+
+<a name="introducción"></a>
 ## Introducción: Te va a pasar:
 
 **Contexto:**
@@ -12,6 +34,7 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 
 ---
 
+<a name="descripción-del-proyecto"></a>
 ## 1. Descripción del Proyecto
 
 **Objetivos:**
@@ -20,6 +43,7 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 
 ---
 
+<a name="hipótesis"></a>
 ## 2. Hipótesis
 
 **Preguntas Clave:**
@@ -29,6 +53,7 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 
 ---
 
+<a name="conjunto-de-datos"></a>
 ## 3. Conjunto de Datos
 
 **Fuente de Datos:**
@@ -37,6 +62,7 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 
 ---
 
+<a name="limpieza-de-datos"></a>
 ## 4. Limpieza de Datos
 
 **Proceso de Limpieza:**
@@ -45,6 +71,7 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 
 ---
 
+<a name="entrenamiento-y-evaluación-del-modelo"></a>
 ## 5. Entrenamiento y Evaluación del Modelo
 
 **Modelo Utilizado:**
@@ -52,10 +79,11 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 - **Resultados**: Capaz de diferenciar entre música clásica y ópera, pero menos efectivo para géneros similares como Pop, Indie, Rock y Folk.
 
 **Análisis del Festival:**
-- Aplicación del mismo modelo al festival, probando con 3 clusters (Pop, Indie y Rock). Dato recogido de su descripción
+- Aplicación del mismo modelo al festival, probando con 3 clusters (Pop, Indie y Rock). Dato recogido de su descripción.
 
 ---
 
+<a name="conclusiones"></a>
 ## 6. Conclusiones
 
 **Principal Conclusión:**
@@ -63,14 +91,16 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 
 ---
 
+<a name="trabajo-futuro"></a>
 ## 7. Trabajo Futuro
 
 **Mejoras Propuestas:**
-- Contactar a Spotipy para informar sobre el bug que me encontré durante el ttratamiento de datos.
+- Contactar a Spotipy para informar sobre el bug que me encontré durante el tratamiento de datos.
 - Mejorar la clusterización usando técnicas avanzadas de IA, como deep learning y análisis de segmentos de canciones.
 
 ---
 
+<a name="flujo-de-trabajo"></a>
 ## 8. Flujo de Trabajo
 
 **Pasos Seguidos:**
@@ -79,6 +109,7 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 
 ---
 
+<a name="organización"></a>
 ## 9. Organización
 
 **Método Personal:**
@@ -87,12 +118,14 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 
 ---
 
+<a name="enlaces-y-recursos"></a>
 ## 10. Enlaces y Recursos
 
 - [Artículo en Medium sobre la idea de los gráficos polares](https://towardsdatascience.com/profiling-my-favorite-songs-on-spotify-through-clustering-33fee591783d)
 
 ---
 
+<a name="historia-cómo-la-ia-puede-mejorar-el-análisis-musical"></a>
 ## Historia: Cómo la IA Puede Mejorar el Análisis Musical
 
 **Un Concierto Perfecto:**
@@ -105,6 +138,7 @@ Al aplicar IA avanzada, como deep learning y análisis de audio, podemos mejorar
 
 ---
 
+<a name="futuro-de-las-apis-y-la-ia-en-el-análisis-musical"></a>
 ## 11. Futuro de las APIs y la IA en el Análisis Musical
 
 **Avances Recientes:**
@@ -118,12 +152,14 @@ Al aplicar IA avanzada, como deep learning y análisis de audio, podemos mejorar
 
 ---
 
+<a name="conclusión-de-la-historia"></a>
 ## Conclusión de la Historia
 
 Gracias a este proyecto, pude determinar si los festivales de música eran adecuados para mis gustos musicales. La IA no solo me ayudó a tomar una decisión informada, sino que también abrió nuevas posibilidades para personalizar y mejorar mi experiencia musical.
 
 ---
 
+<a name="agradecimientos"></a>
 ## Agradecimientos
 
-Espero que esta presentación os proporcione una visión clara de cómo la IA puede revolucionar el análisis musical y las recomendaciones, especialmente en una ciudad vibrante como Barcelona. 
+Espero que esta presentación os proporcione una visión clara de cómo la IA puede revolucionar el análisis musical y las recomendaciones, especialmente en una ciudad vibrante como Barcelona.
