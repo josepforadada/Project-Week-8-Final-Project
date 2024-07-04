@@ -6,17 +6,18 @@
 
 ## Contenido
 - [Introducción](#introducción)
-- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Descripción del proyecto](#descripción-del-proyecto)
 - [Hipótesis](#hipótesis)
-- [Conjunto de Datos](#conjunto-de-datos)
-- [Limpieza de Datos](#limpieza-de-datos)
-- [Entrenamiento y Evaluación del Modelo](#entrenamiento-y-evaluación-del-modelo)
+- [Conjunto de datos](#conjunto-de-datos)
+- [Limpieza de datos](#limpieza-de-datos)
+- [Entrenamiento y evaluación del modelo](#entrenamiento-y-evaluación-del-modelo)
 - [Conclusiones](#conclusiones)
-- [Trabajo Futuro](#trabajo-futuro)
-- [Historia: Cómo la IA Puede Mejorar el Análisis Musical](#historia-cómo-la-ia-puede-mejorar-el-análisis-musical)
-- [Futuro de las APIs y la IA en el Análisis Musical](#futuro-de-las-apis-y-la-ia-en-el-análisis-musical)
-- [Conclusión de la Historia](#conclusión-de-la-historia)
+- [Trabajo futuro](#trabajo-futuro)
+- [Historia: cómo la ia puede mejorar el análisis musical](#historia-cómo-la-ia-puede-mejorar-el-análisis-musical)
+- [Futuro de las apis y la ia en el análisis musical](#futuro-de-las-apis-y-la-ia-en-el-análisis-musical)
+- [Conclusión de la historia](#conclusión-de-la-historia)
 - [Agradecimientos](#agradecimientos)
+
 
 ---
 
