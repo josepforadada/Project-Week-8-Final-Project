@@ -122,7 +122,7 @@ Al aplicar IA avanzada, como deep learning y análisis de audio, podemos mejorar
 - **Análisis Más Detallado:** Con las nuevas APIs, podemos obtener datos más granulares, como la separación de instrumentos, patrones rítmicos y estructuras armónicas.
 - **Mejores Algoritmos:** Los avances en IA permitirán desarrollar algoritmos de recomendación más sofisticados, capaces de entender matices musicales más finos y proporcionar recomendaciones más precisas.
 - **Scores de Análisis:** La combinación de datos más detallados y mejores algoritmos resultará en scores de análisis y coincidencia mucho más precisos, mejorando la experiencia del usuario al encontrar música que realmente disfrute.
-
+- **Algoritmo de clusterización:** Todos estos cambios y futuras implementaciones deribaran en un cambio de algoritmo de clusterización como DBScan que permite más complejidad dimensional.
 ---
 
 <a name="conclusión-de-la-historia"></a>
