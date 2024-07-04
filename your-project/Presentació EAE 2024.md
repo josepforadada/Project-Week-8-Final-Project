@@ -13,8 +13,6 @@
 - [Entrenamiento y Evaluación del Modelo](#entrenamiento-y-evaluación-del-modelo)
 - [Conclusiones](#conclusiones)
 - [Trabajo Futuro](#trabajo-futuro)
-- [Flujo de Trabajo](#flujo-de-trabajo)
-- [Organización](#organización)
 - [Historia: Cómo la IA Puede Mejorar el Análisis Musical](#historia-cómo-la-ia-puede-mejorar-el-análisis-musical)
 - [Futuro de las APIs y la IA en el Análisis Musical](#futuro-de-las-apis-y-la-ia-en-el-análisis-musical)
 - [Conclusión de la Historia](#conclusión-de-la-historia)
@@ -38,7 +36,7 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 
 **Objetivos:**
 - Obtener recomendaciones musicales de Spotify basadas en mis playlists.
-- Comparar canciones de un festival con los clusters generados a partir de mis playlists.
+- Comparar afinidad entre un festival de música, concierto o cualquier variante con mis playlist de cacnciones favoritas.
 
 ---
 
@@ -48,7 +46,7 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 **Preguntas Clave:**
 - ¿Podemos agrupar las canciones de mi playlist en estilos musicales distintos?
 - ¿Es posible solicitar recomendaciones específicas a Spotify?
-- ¿Sería una buena idea asistir al próximo festival de música en Barcelona?
+- ¿Sería una buena idea asistir al próximo festival de música en Barcelona? Como escoger donde ir por la Mercé y el BAM??
 
 ---
 
@@ -56,8 +54,8 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 ## 3. Conjunto de Datos
 
 **Fuente de Datos:**
-- Usé la API de Spotify y la librería Spotipy para recolectar datos de mis playlists.
-- **Desafíos**: La función de recomendaciones en Spotipy tenía un bug que necesitaba ser resuelto para manejar correctamente las solicitudes.
+- Usé la API de Spotify y la librería Spotipy para recolectar datos de mis playlists y de la playlist del evento.
+- **Desafíos**: La función de recomendaciones en Spotipy tenía un BUG que necesitaba ser resuelto para manejar correctamente las solicitudes. Desconozco la situación actual.
 
 ---
 
@@ -65,7 +63,7 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 ## 4. Limpieza de Datos
 
 **Proceso de Limpieza:**
-- Wrangling y normalización de datos.
+- Wrangling y normalización de datos. 
 - Manejo de queries en formato JSON de múltiples niveles.
 
 ---
@@ -74,8 +72,8 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 ## 5. Entrenamiento y Evaluación del Modelo
 
 **Modelo Utilizado:**
-- K-Means clustering para agrupar canciones en géneros musicales.
-- **Resultados**: Capaz de diferenciar entre música clásica y ópera, pero menos efectivo para géneros similares como Pop, Indie, Rock y Folk.
+- K-Means clustering para agrupar canciones en géneros musicales. Dimensionar.
+- **Resultados**: Capaz de diferenciar entre música clásica y ópera, pero menos efectivo para géneros similares como Pop, Indie, Rock y Folk. 
 
 **Análisis del Festival:**
 - Aplicación del mismo modelo al festival, probando con 3 clusters (Pop, Indie y Rock). Dato recogido de su descripción.
@@ -99,24 +97,6 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 
 ---
 
-<a name="flujo-de-trabajo"></a>
-## 8. Flujo de Trabajo
-
-**Pasos Seguidos:**
-1. Obtener los Datos
-2. Wrangling de Datos
-
----
-
-<a name="organización"></a>
-## 9. Organización
-
-**Método Personal:**
-- Prefiero dibujar esquemas en papel usando lápiz, lo que mejora mi visualización debido a mi formación en diseño y 3D.
-- Utilizo bocetos y storyboards para estructurar mi trabajo.
-
----
-
 <a name="historia-cómo-la-ia-puede-mejorar-el-análisis-musical"></a>
 ## Historia: Cómo la IA Puede Mejorar el Análisis Musical
 
@@ -126,7 +106,7 @@ Al aplicar IA avanzada, como deep learning y análisis de audio, podemos mejorar
 **Mejoras Propuestas:**
 - Separación de pistas de canciones para analizar vocales, instrumentos y beats por separado.
 - Redes neuronales profundas para capturar características complejas.
-- Aprendizaje por refuerzo para ajustar recomendaciones basadas en el feedback del usuario.
+- Aprendizaje por refuerzo para ajustar recomendaciones basadas en el feedback del usuario. Utilizar APIs de otros proveedores sin encapsularse solo en Spotify
 
 ---
 
