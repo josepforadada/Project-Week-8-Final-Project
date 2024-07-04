@@ -15,7 +15,6 @@
 - [Trabajo Futuro](#trabajo-futuro)
 - [Flujo de Trabajo](#flujo-de-trabajo)
 - [Organización](#organización)
-- [Enlaces y Recursos](#enlaces-y-recursos)
 - [Historia: Cómo la IA Puede Mejorar el Análisis Musical](#historia-cómo-la-ia-puede-mejorar-el-análisis-musical)
 - [Futuro de las APIs y la IA en el Análisis Musical](#futuro-de-las-apis-y-la-ia-en-el-análisis-musical)
 - [Conclusión de la Historia](#conclusión-de-la-historia)
@@ -115,13 +114,6 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 **Método Personal:**
 - Prefiero dibujar esquemas en papel usando lápiz, lo que mejora mi visualización debido a mi formación en diseño y 3D.
 - Utilizo bocetos y storyboards para estructurar mi trabajo.
-
----
-
-<a name="enlaces-y-recursos"></a>
-## 10. Enlaces y Recursos
-
-- [Artículo en Medium sobre la idea de los gráficos polares](https://towardsdatascience.com/profiling-my-favorite-songs-on-spotify-through-clustering-33fee591783d)
 
 ---
 
