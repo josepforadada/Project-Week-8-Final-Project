@@ -64,7 +64,7 @@ Una variante de esta situación me llevó a crear un proyecto para analizar y re
 ## 4. Limpieza de Datos
 
 **Proceso de Limpieza:**
-- Wrangling y normalización de datos. 
+- Wrangling y normalización de datos. Limpieza, estructuración y enriquecimiento de los datos. Organizar datos de manera lógica y eficiente
 - Manejo de queries en formato JSON de múltiples niveles.
 
 ---
